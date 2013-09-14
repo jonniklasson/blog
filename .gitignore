@@ -1,0 +1,13 @@
+*.htaccess
+source.php
+core/*
+errors/*
+helpers/*
+hooks/*
+language/*
+libraries/*
+logs/*
+third_party/*
+cache/*
+config/*
+*.sqlite
